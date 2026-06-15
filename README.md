@@ -21,12 +21,12 @@ Here are the HTML tags used in this project:
 
 ### Css properties 
 #### properties and values 
-- background-color: greenyellow;
- - color: aliceblue;
-  -font-style: oblique;
-  - font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  -border: 3px dotted black;
-  -border-radius: 30px;
-  -padding: 20px;
-  - margin: 20px;
- - text-shadow: 1px 1px 1px black;
+- `background-color: greenyellow;`
+- `color: aliceblue;`
+-`font-style: oblique;`
+- `font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;`
+-`border: 3px dotted black;`
+-`border-radius: 30px;`
+-`padding: 20px;`
+- `margin: 20px;`
+- `text-shadow: 1px 1px 1px black;`
