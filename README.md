@@ -6,8 +6,8 @@ Basic Html &amp; css
 ### Here i have created a basic webapge with Html and Css using numerous tags and css properties
 
 #### html tags
-- "<a></a>"
-- "<section></section>"
+- //<a></a>"
+- //<section></section>"
 - "<h1></h1>"
 - "<h2></h2>"
 - "<h3></h3>"
