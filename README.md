@@ -15,9 +15,9 @@ Here are the HTML tags used in this project:
 - `<p></p>`
 - `<img/>`
 #### then i had use classes 
--class="section1"
--class="section2"
--class="lis1"
+- `class="section1"`
+- `class="section2"`
+- `class="lis1"`
 
 ### Css properties 
 #### properties and values 
